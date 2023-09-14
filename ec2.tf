@@ -2,7 +2,8 @@
 terraform {
   required_providers {
     aws = {
-      source  = "hashicorp/gcp"
+      source  = "hashicorp/oci"
+ main
       
     }
   }
